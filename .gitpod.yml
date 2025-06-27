@@ -6,5 +6,5 @@ ports:
     onOpen: open-preview
 
 tasks:
-  - init: npm install   # falls nötig
+  - init: npm install
   - command: n8n
